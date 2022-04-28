@@ -47,12 +47,3 @@ body {
     margin: 20px;
   }
 
-  .sentrert-tekst {
-    position: absolute;
-    width: 465px;
-    border: 15px solid green;
-    padding: 30px;
-    margin: 20px;
-    left: 33.3%;
-    right: 50%;
-  }
